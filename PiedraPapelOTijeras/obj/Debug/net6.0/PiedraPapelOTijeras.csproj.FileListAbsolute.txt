@@ -1,0 +1,14 @@
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\bin\Debug\net6.0\PiedraPapelOTijeras.exe
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\bin\Debug\net6.0\PiedraPapelOTijeras.deps.json
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\bin\Debug\net6.0\PiedraPapelOTijeras.runtimeconfig.json
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\bin\Debug\net6.0\PiedraPapelOTijeras.dll
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\bin\Debug\net6.0\PiedraPapelOTijeras.pdb
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.AssemblyInfoInputs.cache
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.AssemblyInfo.cs
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.csproj.CoreCompileInputs.cache
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.dll
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\refint\PiedraPapelOTijeras.dll
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.pdb
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\PiedraPapelOTijeras.genruntimeconfig.cache
+C:\Users\nicus\OneDrive\Desktop\C# Basico\PiedraPapelOTijeras\PiedraPapelOTijeras\obj\Debug\net6.0\ref\PiedraPapelOTijeras.dll
